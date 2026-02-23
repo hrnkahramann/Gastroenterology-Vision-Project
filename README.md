@@ -105,3 +105,4 @@ pip install -r requirements.txt
 - Notebook dosyaları Jupyter ortamında çalıştırılacak şekilde hazırlanmıştır.
 - Model ve veri yolu (path) sisteminize göre düzenlenmelidir.
 - Bu çalışma araştırma ve deneysel model geliştirme amacıyla hazırlanmıştır.
+
