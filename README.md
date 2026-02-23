@@ -43,8 +43,7 @@ Kullanılan veri seti: **HyperKvasir (Kaggle)**
 Veri seti boyut ve lisans kısıtlamaları nedeniyle bu repoya dahil edilmemiştir.
 
 İndirme bağlantısı:  
-https://www.kaggle.com/datasets/andrewmvd/hyper-kvasir
-
+https://www.kaggle.com/datasets/kelkalot/the-hyper-kvasir-dataset
 Veri seti indirildikten sonra proje dizini içinde aşağıdaki klasöre yerleştirilmelidir:
 
 data/
