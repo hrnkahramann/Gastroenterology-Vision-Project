@@ -15,24 +15,6 @@ Bu kapsamda:
 - Model performansları doğruluk (accuracy) ve kayıp (loss) metrikleri üzerinden değerlendirilmiştir.
 - Eğitim süreci ve sonuçlar karşılaştırmalı olarak analiz edilmiştir.
 
----
-
-## 📂 Proje Yapısı
-
-Gastroenterology-Vision-Project/
-│
-├── notebooks/
-│   ├── cnn_experiments.ipynb
-│   ├── mobilenetv2_experiments.ipynb
-│
-├── src/
-│   ├── train_clip.py
-│   ├── evaluate_clip.py
-│   └── inference.py
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
 
 ---
 
